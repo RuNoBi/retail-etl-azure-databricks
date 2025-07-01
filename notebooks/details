@@ -1,0 +1,6 @@
+ETL Components Overview
+This project follows the classical ETL (Extract – Transform – Load) architecture, implemented in Apache Spark using Databricks. The workflow is split into three modular notebooks for clarity and maintainability.
+
+1)retail_Extract.py -Extract Step
+2)retail_Transform.py -Transform Step
+3)retail_Load.py -Load Step
