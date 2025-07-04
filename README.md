@@ -20,3 +20,7 @@ Build a mini ETL pipeline on Databricks to clean, transform, and aggregate retai
   SQL,
   Delta Lake,
   GitHub
+  
+---
+Project by Puttaradol Pongpanich (CPAXTRA Intern) | July 2025  
+Mentored by Ankit Kushwaha | For learning purpose only
